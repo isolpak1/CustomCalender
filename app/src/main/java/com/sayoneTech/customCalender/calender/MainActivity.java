@@ -12,8 +12,10 @@ import java.util.HashSet;
 /**
  * Created by rahul on 16/11/15.
  */
-public class MainActivity extends ActionBarActivity
-{
+public class MainActivity extends ActionBarActivity {
+
+    //Project Link : https://github.com/isolpak1/CustomCalender
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
